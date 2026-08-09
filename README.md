@@ -270,8 +270,6 @@ This project demonstrates practical experience in:
 
 ## Transactions
 
-![FinSight Transactions](images/Transactions.png)
+![FinSight Transactions](https://github.com/Anurag-Nk/Finance-Analytics/blob/main/Transactions.png)
 
 ---
-│
-└── LICENSE
