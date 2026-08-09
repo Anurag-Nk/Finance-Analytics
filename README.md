@@ -266,7 +266,7 @@ This project demonstrates practical experience in:
 
 ## Overview Analysis
 
-![FinSight Overview Analysis](images/Overview%20Analysis.png)
+![FinSight Overview Analysis](https://github.com/Anurag-Nk/Finance-Analytics/blob/main/Overview%20Analysis.png)
 
 ## Transactions
 
