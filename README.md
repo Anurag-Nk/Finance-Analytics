@@ -16,14 +16,12 @@ The dashboard provides both **high-level financial performance analysis** and **
 
 ## 🛠️ Tech Stack
 
-The dashboard was built using:
-
-- 📊 **Power BI Desktop** – Dashboard development and data visualization.
+- 📊 **Power BI Desktop** – Dashboard development and interactive visualization.
 - 📂 **Power Query** – Data cleaning, transformation, and preparation.
-- 🧠 **DAX** – Calculated measures, KPIs, dynamic metrics, and business logic.
-- 🗄️ **Data Modeling** – Structured financial data for interactive analysis.
-- 🎨 **Custom UI Design** – FinSight-themed green and dark dashboard interface.
-- 📁 **File Format** – `.pbix` for Power BI development and `.png` for dashboard previews.
+- 🧠 **DAX** – Dynamic measures, KPIs, calculations, and business logic.
+- 🗄️ **Data Modeling** – Structured data relationships for cross-filtering and analysis.
+- 🎛️ **Interactive Slicers** – Dynamic filtering across multiple dimensions.
+- 🔄 **Dynamic Measures** – Metric selection and responsive KPI calculations.
 
 ---
 
@@ -273,3 +271,12 @@ This project demonstrates practical experience in:
 ![FinSight Transactions](https://github.com/Anurag-Nk/Finance-Analytics/blob/main/Transactions.png)
 
 ---
+# 👨‍💻 Author
+
+**Anurag**
+
+Aspiring Data Analyst | Power BI | SQL | Excel | Python
+
+---
+
+⭐ **If you found this project useful, consider giving the repository a star!**
