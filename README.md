@@ -271,11 +271,12 @@ This project demonstrates practical experience in:
 ![FinSight Transactions](https://github.com/Anurag-Nk/Finance-Analytics/blob/main/Transactions.png)
 
 ---
+
 # 👨‍💻 Author
 
 **Anurag**
 
-Aspiring Data Analyst | Power BI | SQL | Excel | Python
+Aspiring Data Analyst | Power BI | Tableau | SQL | Excel | Python
 
 ---
 
